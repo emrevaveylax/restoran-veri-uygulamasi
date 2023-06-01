@@ -1,2 +1,2 @@
 # restoran-veri-uygulamasi
-Python ile yaptığım Restoran Veri uygulaması
+- Python ile yaptığım Restoran Veri uygulaması
